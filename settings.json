@@ -1,0 +1,10 @@
+{
+	"git_host": "github",
+	"github": {
+		"password": "",
+		"username": ""
+	},
+	"gitlab": {
+		"token": ""
+	}
+}
