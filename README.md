@@ -1,8 +1,8 @@
 # Project Manager
 - Manage repository/project on github/gitlab
-	- show: Show owned repos/projects
-	- create: Create new repo/project (default visibility will be `private`)
-	- delete: Delete repo/project by ID
+	- `show`: Show owned repos/projects
+	- `create`: Create new repo/project (default visibility will be `private`) and folder under home directory
+	- `delete`: Delete repo/project by ID
 
 ## Setup Authentication info
 - Setup in `settings.json` file
